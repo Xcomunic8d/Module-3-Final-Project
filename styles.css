@@ -103,6 +103,7 @@ p {
 
 button {
   cursor: pointer;
+  border: none;
 }
 
 /* Nav */
@@ -154,6 +155,9 @@ nav {
 
 .nav__link {
   margin: 0 24px;
+}
+
+.nav__link {
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0.35px;
