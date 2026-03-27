@@ -513,7 +513,7 @@ header {
 }
 
 .quality__description,
-.quality__img--wraper {
+.quality__img--wrapper {
   width: 50%;
 }
 
@@ -1263,8 +1263,8 @@ footer {
 }
 
 .footer__social--link svg {
-  width: 16px;
   height: 16px;
+  width: 16px;
 }
 
 .footer__social--link {
@@ -1490,7 +1490,7 @@ footer {
     max-width: 512px;
   }
 
-  start__buttons {
+  .start__buttons {
     width: auto;
     margin-top: 24px;
   }
